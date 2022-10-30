@@ -1,2 +1,2 @@
-# Python--Simple_Projects
+# Python Projects
  Simple Python Projects using turtle, libariaries etc.
